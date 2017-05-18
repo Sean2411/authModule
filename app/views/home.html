@@ -1,0 +1,26 @@
+<div class="container-fluid">
+    <div class="row">
+        <div ng-controller="productsCtrl">
+            <div>
+                <ul class="product-list">
+                    <li ng-repeat="product in products" class="row product-box">
+
+                        <div class="col-md-3">
+                            <a href="#/product/{{product.Id}}" class="thumb">
+                                <img class="product-img" ng-src="{{product.images[0]}}">
+                            </a>
+                        </div>
+                        <div class="col-md-7">
+                            <h3 class="product-name">{{product.Name}}</h3>
+                            <p class="product-description">{{product.Description}}</p>
+                            <p class="product-stock-num">Stock Number: {{product.Id}}</p>
+                        </div>
+                        <div class="col-md-2">
+                            <h4 class="product-price">{{product.Price | currency: "USD$"}}</h4>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

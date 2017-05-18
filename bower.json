@@ -1,0 +1,33 @@
+{
+  "name": "auth-frontend",
+  "description": "Authentication module using token",
+  "authors": [
+    "Sean Lu"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "auth",
+    "authentication",
+    "node.js",
+    "express.js",
+    "mongodb",
+    "angularJS"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "index.html",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "ngstorage": "^0.3.11",
+    "angular-route": "^1.6.4",
+    "themify-icons": "^0.1.2",
+    "font-awesome": "^4.7.0"
+  }
+}

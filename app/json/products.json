@@ -1,0 +1,124 @@
+[
+  {
+    "Id": 1,
+    "Make": "BMW",
+    "Name": "2017 BMW RNINET SCRAMBLER Dual Sport",
+    "Model": "RNINET SCRAMBLER",
+    "Category": "Dual Sport",
+    "Description" : "R Nine T, BMW Motorcycle: For those who like it pure and original, BMW Motorrad has now developed the perfect machine: the BMW R nineT. A motorcycle featuring purist design and numerous ways of customizing it.This bike was built to celebrate 90 years of BMW Motorrad. This bike has had all of it's services and runs fantastic. The bike has been customized to include new ABM Clip on handlebars, giving the bike a great look and more responsive driving position.",
+    "Specification": {
+      "Color": "Black / Gray",
+      "Type": "Motorcycle",
+      "Mileage": "11",
+      "Capacity": "1,170cc",
+      "Maximum speed": "125mph"
+    },
+    "images": [
+      "img/bmw-r90-1.jpg"
+    ],
+    "Price": 11900,
+    "Shipping Cost": 800
+  },
+  {
+    "Id": 2,
+    "Make": "BMW",
+    "Model": "R1200",
+    "Name": "2017 BMW R1200 Dual Sport",
+    "Category": "Dual Sport",
+    "Description" : "R Nine T, BMW Motorcycle: For those who like it pure and original, BMW Motorrad has now developed the perfect machine: the BMW R nineT. A motorcycle featuring purist design and numerous ways of customizing it.This bike was built to celebrate 90 years of BMW Motorrad. This bike has had all of it's services and runs fantastic. The bike has been customized to include new ABM Clip on handlebars, giving the bike a great look and more responsive driving position.",
+    "Specification": {
+      "Color": "Blue",
+      "Type": "Motorcycle",
+      "Mileage": "500",
+      "Capacity": "1,170cc",
+      "Maximum speed": "125mph"
+    },
+    "images": [
+      "img/bmw-r1200-1.jpg"
+    ],
+    "Price": 11900,
+    "Shipping Cost": 900
+  },
+  {
+    "Id": 3,
+    "Make": "HARLEY-DAVIDSON",
+    "Model": "IRON 883",
+    "Name": "2017 HARLEY-DAVIDSON XL883N - IRON 883",
+    "Category": "Cruiser",
+    "Description" : "2017 Harley-Davidson XL883N - Iron 883, 2017 Harley-Davidson® Iron 883 Aggressive throwback styling taken to a place altogether new. No need to shine this machine. Just get on and tear up the nearest street.A great leap forward in the dark arts.You re looking at a pioneer of raw, blacked-out, stripped-down custom style. In the years since its introduction, it has only gotten better. Fine-tuned suspension. Tuck and roll seat. Black cast aluminum wheels with machined highlights. And blacked-out surfaces from fender to fender. You get everything you need. And nothing you dont.",
+    "Specification": {
+      "Color": "Gray",
+      "Type": "Motorcycle",
+      "Mileage": "1289",
+      "Capacity": "883cc",
+      "Maximum speed": "120mph"
+    },
+    "images": [
+      "img/hd-883-1.jpg"
+    ],
+    "Price": 8949,
+    "Shipping Cost": 900
+  },
+  {
+    "Id": 4,
+    "Make": "HARLEY-DAVIDSON",
+    "Model": "XL1200CX - ROADSTER",
+    "Name": "2017 HARLEY-DAVIDSON XL1200CX - ROADSTER",
+    "Category": "Cruiser",
+    "Description": "The Roadster combines low-end torque, agile handling and garage-built custom style. It s refined performance package includes 43mm inverted front forks, dual disc brakes, adjustable rear suspension and new dual gauge instrumentation with speedo and tach. You get a chopped rear fender and a side mount license plate (US only) to complement its iconic tank. The riding position is aggressive, but comfortable, thanks to the new two up seat, mid-mount controls, lowered bars and 19-inch front and 18-inch rear offset-split 5-spoke cast aluminum wheels. Turn the 1200cc Evolution® engine loose at the nearest green light.",
+    "Specification": {
+      "Color": "Black",
+      "Type": "Motorcycle",
+      "Mileage": "1100",
+      "Capacity": "1,200cc",
+      "Maximum speed": "160mph"
+    },
+    "images": [
+      "img/hd-roadster-1.jpg"
+    ],
+    "Price": 11494,
+    "Shipping Cost": 900
+  },
+  {
+    "Id": 5,
+    "Make": "Triumph",
+    "Model": "T100",
+    "Name": "2017 TRIUMPH BONNEVILLE T100 BLACK",
+    "Category": "Standard",
+    "Description": "2017 TRIUMPH BONNEVILLE T100 Black, BRAND NEW! IN STOCK! CALL FOR PRICE, WE DO NOT RUN ILLEGAL ADS! DID YOU KNOW A DEALER CAN NOT LEGALLY ADD FREIGHT, SETUP, OR ADDITIONAL MARK UP ON PRICE ADS WITHOUT DISCLOSING IN WRITING WHAT THAT EXACT COST IS? CALL THE STRAIGHT SHOOTERS AT SOUTHBAY!",
+    "Specification": {
+      "Color": "Black",
+      "Type": "Motorcycle",
+      "Mileage": "101",
+      "Capacity": "1,000cc",
+      "Maximum speed": "165mph"
+    },
+    "images": [
+      "img/triumph-t100-1.jpg"
+    ],
+    "Price": 10800,
+    "Shipping Cost": 900
+  },
+  {
+    "Id": 6,
+    "Make": "Honda",
+    "Model": "CBR1000RR",
+    "Name": "2017 HONDA CBR1000RR SP",
+    "Category": "Sport",
+    "Description" : "R Nine T, BMW Motorcycle: For those who like it pure and original, BMW Motorrad has now developed the perfect machine: the BMW R nineT. A motorcycle featuring purist design and numerous ways of customizing it.This bike was built to celebrate 90 years of BMW Motorrad. This bike has had all of it's services and runs fantastic. The bike has been customized to include new ABM Clip on handlebars, giving the bike a great look and more responsive driving position.",
+    "Specification": {
+      "Color": "Red",
+      "Type": "Motorcycle",
+      "Mileage": "10 miles",
+      "Capacity": "1,000cc",
+      "Speed": "180 mph"
+    },
+    "images": [
+      "img/honda-cbr1000rr-1.jpg"
+    ],
+    "Price": 19900,
+    "Shipping Cost": 1200
+  }
+]
+
+

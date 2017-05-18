@@ -1,0 +1,56 @@
+<div ng-controller="productsCtrl">
+    <div class="container-fluid">
+        <h2 class="product-name">{{productDetail.Name}}</h2>
+        <h3 class="productDetail-price">{{productDetail.Price | currency: "USD$"}}</h3>
+        <img class="product-img" ng-src="{{productDetail.images[0]}}">
+        <table class="productDetail-table">
+            <tr>
+                <td>Stock Number</td>
+                <td colspan="2">{{productDetail.Id}}</td>
+            </tr>
+            <tr>
+                <td>Name</td>
+                <td colspan="2">{{productDetail.Name}}</td>
+            </tr>
+            <tr>
+                <td>Make</td>
+                <td colspan="2">{{productDetail.Make}}</td>
+            </tr>
+            <tr>
+                <td>Model</td>
+                <td colspan="2">{{productDetail.Model}}</td>
+            </tr>
+            <tr>
+                <td>Category</td>
+                <td colspan="2">{{productDetail.Category}}</td>
+            </tr>
+            <tr>
+                <td>Description</td>
+                <td colspan="2">{{productDetail.Description}}</td>
+            </tr>
+            <tr>
+                <td rowspan="6">Spec</td>
+            </tr>
+            <tr>
+                <td>Color</td>
+                <td>{{productDetail.Specification.Color}}</td>
+            </tr>
+            <tr>
+                <td>Type</td>
+                <td>{{productDetail.Specification.Type}}</td>
+            </tr>
+            <tr>
+                <td>Mileage</td>
+                <td>{{productDetail.Specification.Mileage}}</td>
+            </tr>
+            <tr>
+                <td>Capacity</td>
+                <td>{{productDetail.Specification.Capacity}}</td>
+            </tr>
+            <tr>
+                <td>Maximum Speed</td>
+                <td>{{productDetail.Specification.Speed}}</td>
+            </tr>
+        </table>
+    </div>
+</div>
