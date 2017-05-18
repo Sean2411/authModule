@@ -2,10 +2,11 @@
  * Created by lu1 on 5/15/17.
  */
 app.controller('productsCtrl', ['$rootScope','$scope', '$http', '$routeParams', '$location', 'Main', function ($rootScope, $scope, $http, $routeParams, $location, Main) {
+    var url = $location.url();
     Main.authorized(function() {
         $rootScope.loggedin = false;
     }, function() {
-        $location.path('/');
+        $location.path(url);
     });
 
 
