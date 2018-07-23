@@ -1,1 +1,5 @@
-src/* linguist-vendored=true
+app/* linguist-vendored
+bower_components/* linguist-vendored
+models/* linguist-vendored
+node_modules/* linguist-vendored
+
